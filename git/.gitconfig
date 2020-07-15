@@ -1,0 +1,13 @@
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	ba = branch -a
+	cp = cherry-pick
+	ci = commit
+[user]
+	name = aokiken
+	email = aokiken@me.com
+[core]
+	editor = vim -c \"set fenc=utf-8\"
+
